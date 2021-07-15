@@ -17,7 +17,7 @@ nav {
   padding-left: 100px;
 }
 
-ul {
+nav ul {
   list-style-type: none;
   margin: 5px;
   padding: 0;
@@ -26,7 +26,7 @@ ul {
   font-weight: 500;
 }
 
-li {
+nav li {
   float: left;
 }
 
@@ -193,7 +193,6 @@ p {
 
 .footer {
   height: 50px;
-  justify-content: ;
 }
 .content {
   align-items: center;
@@ -203,6 +202,7 @@ p {
   background-color: black;
   color: white;
   font-size: 12px;
+  text-align: center;
 }
 /* -----------------------------
 Media Queries/Responsive
